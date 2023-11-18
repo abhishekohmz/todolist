@@ -1,0 +1,38 @@
+#div1{
+    /* background-color: green; */
+    width: 800px;
+    margin-left: 20%;;
+    margin-top: 20%;
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+  /* height: 200px; */
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+#div1 h3{
+    text-align: center;
+    /* padding-top: 30px; */
+}
+ /* #div2{
+    /* background-color: green; */
+    /* border-style: groove;
+    width:600px;
+    margin-left: 13%;
+    margin-top: 10px;
+    /* height: 50px; */
+    /* border-radius: 10px;
+    padding-left: 10px; } */ 
+
+
+#btn1{
+    width: 600px;
+    margin-left: 13%;
+    
+
+}
+
+#inp{
+    width: 600px;
+    margin-left: 13%;
+    margin-bottom: 10px;
+}
